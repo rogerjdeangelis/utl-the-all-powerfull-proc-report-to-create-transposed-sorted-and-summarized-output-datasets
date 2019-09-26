@@ -5,7 +5,10 @@ The all powerfull proc report to create transposed sorted and summarized output 
                                                                                                                           
     Although the data is sorted by reagion. That is not needed.                                                           
                                                                                                                           
-    FYI Report is often a very powerfull 'proc transpose', can transpose mutiple sets of variables.                       
+    FYI Report is often a very powerfull 'proc transpose', can transpose mutiple sets of variables. 
+    
+    https://tinyurl.com/y5nqeb6g                                                                                                     
+    https://github.com/rogerjdeangelis/utl-the-all-powerfull-proc-report-to-create-transposed-sorted-and-summarized-output-datasets  
                                                                                                                           
     *_                   _                                                                                                
     (_)_ __  _ __  _   _| |_                                                                                              
